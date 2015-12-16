@@ -16,5 +16,6 @@
             "title":"Success"
         }
     ],
+    "icon": "youtube-play",
     "title": "YouTube Delete Comments" /* Required.A display name for the module */
 }
