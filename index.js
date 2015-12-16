@@ -47,7 +47,6 @@ module.exports = {
             return;
         // set credential
         google.options({ auth: auth });
-
         service.comments.delete(util.pickStringInputs(step, pickInputs), function (error, data) {
 
             if (error)
