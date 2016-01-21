@@ -16,6 +16,12 @@
             "title":"Success"
         }
     ],
+    "providers": [{
+        "name": "google",
+        "scopes": [
+            "https://www.googleapis.com/auth/youtube.force-ssl"
+        ]
+    }],
     "icon": "youtube-play",
     "title": "YouTube Delete Comments" /* Required.A display name for the module */
 }

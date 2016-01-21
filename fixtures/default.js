@@ -62,7 +62,7 @@ module.exports = _.merge({
              * You should update this section with some test input for testing your module
              */
             input: {
-                id: 'z13tu5z55xb4g1yn223nz1tg5uqlftshd04'
+                id: 'comment_id'
             }
         }
     }
